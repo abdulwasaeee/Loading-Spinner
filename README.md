@@ -22,3 +22,9 @@ The loading spinner is a circular animation that rotates indefinitely to show th
 - To change the size of the spinner, adjust the `height` and `width` properties in the CSS.
 - To change the color of the spinner, modify the `border-color` property in the CSS.
 
+## Output
+
+![Screenshot (41)](https://github.com/abdulwasaeee/Loading-Spinner/assets/162667028/3a98c8ee-5761-4307-b6b6-535cde29fbfd)
+
+  
+
