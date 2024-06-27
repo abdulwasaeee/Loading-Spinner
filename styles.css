@@ -1,0 +1,26 @@
+#spinner{
+    border-color: white  white transparent;
+    height: 60px;
+    width: 60px;
+    animation: fade_out 1.3s infinite;
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+@keyframes fade_out {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+
+    }
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #343939 ;
+    height: 90vh;
+}
